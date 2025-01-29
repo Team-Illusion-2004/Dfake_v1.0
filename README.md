@@ -52,5 +52,5 @@ The model was trained using **2,50,000 images**, including real and deepfake ima
 
 ## Live Demo
 
-Check out the live version of our Deepfake Detection Website here: [Live Demo](#dfake.pages.dev)
+Check out the live version of our Deepfake Detection Website here: [Live Demo](dfake.pages.dev)
 
