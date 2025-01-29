@@ -42,7 +42,7 @@ The model was trained using **2,50,000 images**, including real and deepfake ima
 
 1. Upload an image or video to the web application.
 2. The trained CNN model analyzes the input.
-3. Get the deepfake detection results with confidence scores.
+3. Get the deepfake detection results
 
 ## Results
 
