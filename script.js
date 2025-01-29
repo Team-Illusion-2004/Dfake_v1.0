@@ -14,7 +14,7 @@ async function loadModel() {
   try {
     console.log("Loading model...");
     loadedModel = await tf.loadLayersModel(
-      "https://raw.githubusercontent.com/vrashab-dev/dfake_model/main/model/model.json"
+      "https://raw.githubusercontent.com/Team-Illusion-2004/Dfake_v1.0/main/model/model.json"
     );
     console.log("Model loaded:", loadedModel);
 
