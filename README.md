@@ -11,7 +11,7 @@ This project was developed by:
 
 - **Vrashab Banappa Timmannavar** - [GitHub Profile](https://github.com/vrashab-dev)
 - **Vardhman** - [GitHub Profile](#)
-- **Ishan** - [GitHub Profile](#)
+- **Ishan** - [GitHub Profile](https://github.com/IshanParab)
 - **Neha** - [GitHub Profile](#)
 
 ## Features
