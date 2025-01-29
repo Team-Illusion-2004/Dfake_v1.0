@@ -10,7 +10,7 @@ This project is a **Deepfake Detection Website** that utilizes a **deep learning
 This project was developed by:
 
 - **Vrashab Banappa Timmannavar** - [GitHub Profile](https://github.com/vrashab-dev)
-- **Vardhman** - [GitHub Profile](#)
+- **Vardhaman Ganpule** - [GitHub Profile](#)
 - **Ishan** - [GitHub Profile](https://github.com/IshanParab)
 - **Neha** - [GitHub Profile](#)
 
